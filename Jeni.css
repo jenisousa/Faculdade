@@ -1,0 +1,28 @@
+body 
+{
+margin: 20px;
+}
+
+h1 
+{
+color: rgb(133, 72, 4);
+font-family:'Lucida Sans';
+}
+
+img 
+{
+float: left;
+margin: 10px 30px 20px;
+}
+
+p 
+{
+font-size: 15px;
+font-family: Verdana;
+}
+
+h2
+{
+font-size: 15px;
+font-family: Gill Sans;
+}
